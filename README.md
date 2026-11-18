@@ -1,4 +1,14 @@
-# AxomRank Books
+# Assam History Books: a 13-book history of Assam for exam aspirants
+
+> AxomRank book series, "Assam: A History of Its Land and People": 13 planned books (222 chapters), with manuscripts, research registers, designs and covers.
+
+[Part of AxomRank](https://github.com/axomrank)
+
+## At a glance
+
+- **13 books, 222 chapters, 1,110 content divisions**, from prehistory to the contemporary state
+- **Book 01**, *Before the Kingdoms*, is in research and HTML-to-PDF production. The Ahom trilogy is Books 07–09
+- Chapters use **explanations, tables, revision summaries, citations and original practice questions** for exam aspirants
 
 ## Current Book 01 research and HTML production
 
@@ -83,3 +93,32 @@ Historical provenance JSON retains old absolute machine paths. Use the relative 
 ## Book 1 research library
 
 Book 1 has an initial research pass covering all 12 chapter briefs and 60 planned divisions. Browse the [local visual and source catalogue](book/assam_history_series/01_prehistory_and_early_life/research/web/index.html) and [research status](book/assam_history_series/01_prehistory_and_early_life/research/README.md). Chapter 01, [Reading the Deep Past](book/assam_history_series/01_prehistory_and_early_life/manuscript/01_Reading_the_Deep_Past.html), now has a structured exam-study draft with six consolidated source notes, eight original MCQs, explained answers and a short-answer model in a [14-page illustrated HTML design proof](output/pdf/Before_the_Kingdoms_Chapter_01_HTML_Design_Proof.pdf). The [citation audit](book/assam_history_series/01_prehistory_and_early_life/research/CHAPTER_01_RESEARCH_AUDIT.md) records checked passages and remaining limits. Scholarly review is pending; the other eleven prehistory chapters are not drafted.
+
+## Roadmap: future improvements
+
+- [ ] Finish Book 01 and publish a print and PDF edition with app access (a revenue product, see the marketing plan)
+- [ ] Open pre-orders on the AxomRank blog
+- [ ] Add an Assamese edition plan and a translation workflow
+- [ ] Add a shared citation database with [assam-history-sources](https://github.com/axomrank/assam-history-sources)
+- [ ] Move large production files out of git (releases or R2)
+
+## For AI agents and contributors
+
+Read [AGENTS.md](AGENTS.md). Keep evidence records with drafts, and do not present a draft as reviewed.
+
+Commit as the `axomrank` account. Keep changes small and reviewable, and run the repository's checks before pushing.
+
+## Part of AxomRank
+
+[AxomRank](https://axomrank.pages.dev) offers free, bilingual preparation for Assam government exams. Related repositories:
+
+- **Learn:** [axomrank.github.io](https://github.com/axomrank/axomrank.github.io) (the AxomRank learning app), [ahom-kings-lessons](https://github.com/axomrank/ahom-kings-lessons) (41 bilingual Ahom reign lessons), [floor-test-simulator](https://github.com/axomrank/floor-test-simulator) (parliamentary majority simulator)
+- **Explore Assam history:** [ahom-kingdom-history](https://github.com/axomrank/ahom-kingdom-history) (illustrated Ahom kingdom website), [assam-history-map](https://github.com/axomrank/assam-history-map) (year-by-year historical map), [assam-history-characters](https://github.com/axomrank/assam-history-characters) (character sheets for Assam's history), [assam-visual-archive](https://github.com/axomrank/assam-visual-archive) (gallery of Assam scenes and photographs), [assam-heritage-ai-art](https://github.com/axomrank/assam-heritage-ai-art) (AI art gallery of Assamese heritage)
+- **Open data:** [assam-exam-pyq](https://github.com/axomrank/assam-exam-pyq) (2,398 previous-year questions with answers), [assam-exam-syllabus](https://github.com/axomrank/assam-exam-syllabus) (syllabi for 12 recruitment boards), [assam-maps](https://github.com/axomrank/assam-maps) (map portal and GIS layers), [assam-history-sources](https://github.com/axomrank/assam-history-sources) (Kamarupa inscriptions and primary sources)
+- **Publishing and brand:** [axomrank-blog](https://github.com/axomrank/axomrank-blog) (exam guides built from real papers), [axomrank-brand-assets](https://github.com/axomrank/axomrank-brand-assets) (brand kit and social media library)
+
+## License and contact
+
+No license file yet, so all rights are reserved by default. This is a commercial publication in preparation.
+
+Corrections and questions: open an issue in this repository. AxomRank is run by Angsuman Das (sole proprietor).
