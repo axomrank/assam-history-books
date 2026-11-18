@@ -74,7 +74,7 @@ Five chapters have first drafts (about 6,718 main-prose words). Sixteen Volume I
 
 ## Migration and rights
 
-Copied from [axomrank/Social_Media_asset](https://github.com/axomrank/Social_Media_asset), preserving source bytes and existing provenance. Original files remain available there. [Migration inventory](migration-manifest.json) records source locations, file sizes and SHA-256 hashes. The selected v3 PNG cover was recovered byte-for-byte from the native generation source documented in its generation record.
+Copied from [axomrank/Social_Media_asset](https://github.com/axomrank/axomrank-brand-assets), preserving source bytes and existing provenance. Original files remain available there. [Migration inventory](migration-manifest.json) records source locations, file sizes and SHA-256 hashes. The selected v3 PNG cover was recovered byte-for-byte from the native generation source documented in its generation record.
 
 Historical provenance JSON retains old absolute machine paths. Use the relative links above for current navigation. The original PDF renderer also requires its recorded fonts and Python dependencies (ReportLab and pypdf); migration does not certify portable rendering.
 

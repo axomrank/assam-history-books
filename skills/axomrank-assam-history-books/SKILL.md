@@ -9,9 +9,9 @@ Create original, source-documented Assam history books whose writing, covers, in
 
 ## Connect to the actual project
 
-- Canonical book repository: https://github.com/axomrank/book (default branch currently `main`).
+- Canonical book repository: https://github.com/axomrank/assam-history-books (default branch currently `main`).
 - Local checkout on this machine: `/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/book`.
-- Brand repository: https://github.com/axomrank/Social_Media_asset.
+- Brand repository: https://github.com/axomrank/axomrank-brand-assets.
 - Local brand repository: `/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset`.
 - Confirm the checkout's Git remote and read its `AGENTS.md`, `README.md`, current plans, progress, and relevant manuscript before editing. If these paths move, locate the repository by its remote rather than creating a second competing manuscript. Use the GitHub connector when local sources are unavailable.
 - Changes to manuscript and design files belong in the book repository. Read the brand repository as the shared identity authority. Do not modify the social repository merely to complete a book task.
